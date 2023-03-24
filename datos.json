@@ -1,0 +1,16 @@
+{
+    "bands": [
+      { "name": "Led Zeppelin", "location": [-95.3698, 29.7604] },
+      { "name": "Pink Floyd", "location": [0.1278, 51.5074] },
+      { "name": "The Rolling Stones", "location": [-0.1278, 51.5074] },
+      { "name": "The Beatles", "location": [-0.1278, 51.5074] },
+      { "name": "Queen", "location": [-0.1278, 51.5074] },
+      { "name": "AC/DC", "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71ov-DhyciL._UF1000,1000_QL80_.jpg", "location": [151.2093, -33.8688] },
+      { "name": "Metallica", "location": [-122.4194, 37.7749] },
+      { "name": "Guns N' Roses", "location": [-118.2437, 34.0522] },
+      { "name": "Nirvana", "location": [-122.3321, 47.6062] },
+      { "name": "The Who", "location": [-0.1278, 51.5074] },
+      { "name": "Ramnstein", "location": [13.41053, 52.52437] }
+    ]
+  }
+  
